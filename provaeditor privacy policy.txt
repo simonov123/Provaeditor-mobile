@@ -8,7 +8,6 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 Information Collection and Use:
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to lucianosimone143@gmail.com. The information that I request will be retained on your device and is not collected by me in any way.
 
 This app is a text editor that can be used to manage documents in the device,so is required the access to all files device memory through file manager. 
 This operation doesn’t share the content of files but only access to them.
